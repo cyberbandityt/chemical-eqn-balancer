@@ -25,3 +25,6 @@ Equations
 # Contribution
 This is open for contribution. Please help me contribute for making this available and useful for more amount of equations.
 
+# Credit
+I give credit to Stack overflow and sympy documentation.
+Also, I would love to be credited by you
