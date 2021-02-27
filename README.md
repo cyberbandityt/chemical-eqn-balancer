@@ -3,7 +3,9 @@ Python code to balance chemical equation. Made this while reading chemistry.
 
 # how to use
 1, Clone this
+
 2, install sympy - pip3 install sympy
+
 3, execute this - python3 eqn.py
 
 ```
