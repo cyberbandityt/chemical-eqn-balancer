@@ -19,13 +19,10 @@ Balanced solution:
 1 ZnCl2 + 1 H2SO4 -> 1 ZnSO4 + 2 HCl
 ```
 
-# Limit
-This is limited to 
-A+B -> C+D 
-Equations
+
 
 # Contribution
-This is open for contribution. Please help me contribute for making this available and useful for more amount of equations.
+This is open for contribution.
 
 # Credit
 I give credit to Stack overflow and sympy documentation.
