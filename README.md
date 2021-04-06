@@ -1,29 +1,10 @@
-# chemical-eqn-balancer
-Python code to balance chemical equation. Made this while reading chemistry.
+# Intro:
 
-# how to use
-1, Clone this
+ > Python program to balance chemical equations
 
-2, install sympy - pip3 install sympy
+# How to use:
 
-3, execute this - python3 eqn.py
+ > Clone this and you will find 2 folders for the main and the alternate versions, of which you can find the
+   separate readme files which guide you on using each version.
 
-```
-Please enter left-hand list of compounds, separated by spaces:
-ZnCl2 H2SO4
-
-Please enter right-hand list of compounds, separated by spaces:
-ZnSO4 HCl
-
-Balanced solution:
-1 ZnCl2 + 1 H2SO4 -> 1 ZnSO4 + 2 HCl
-```
-
-
-
-# Contribution
-This is open for contribution.
-
-# Credit
-I give credit to Stack overflow and sympy documentation.
-Also, I would love to be credited by you
+# Have a good time!
