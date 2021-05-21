@@ -1,7 +1,7 @@
 # chemical-eqn-balancer
 Python code to balance chemical equation. Made this while reading chemistry.
 
-# how to use
+# How to use
 1, Clone this
 
 2, install sympy - pip3 install sympy
